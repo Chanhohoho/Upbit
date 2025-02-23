@@ -10,7 +10,7 @@ import time
 # UNIT = 10000  # 기본 매수 단위
 # FEE = 0.0005  # 거래 수수료
 # PERIOD = 56  # 장기 돌파 체크 기간
-# PERIOD_SHORT = 7 # 단기 돌파 체크 기간
+# PERIOD_SHORT = 5 # 단기 돌파 체크 기간
 # GOAL = 10  # 최대 보유 포지션
 # UNDER = 2.5  # 손절 ATR 배수
 # CUTPERCENT = 4 # 손절 %
