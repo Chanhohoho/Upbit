@@ -11,5 +11,5 @@ KRW = upbit.get_balance('KRW')
 #     print("HI")
 
 print(KRW)
-
+SendMessage(f"{123}")
 # print(type(KRW))
