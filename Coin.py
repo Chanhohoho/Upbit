@@ -43,7 +43,7 @@ while True:
     UNIT = int(settings.get('UNIT', 10000))
     FEE = float(settings.get('FEE', 0.0005))
     PERIOD = int(settings.get('PERIOD', 56))
-    PERIOD_SHORT = int(settings.get('PERIOD_SHORT', 7))
+    PERIOD_SHORT = int(settings.get('PERIOD_SHORT', 5))
     GOAL = int(settings.get('GOAL', 10))
     UNDER = float(settings.get('UNDER', 2.5))
     CUTPERCENT = float(settings.get('CUTPERCENT', 4))
