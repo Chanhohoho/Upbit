@@ -14,3 +14,6 @@ KRW = upbit.get_balance('KRW')
 print(KRW)
 SendMessage(f"{123}")
 # print(type(KRW))
+
+# git reset --hard HEAD  # 로컬 변경 사항 모두 취소
+# git pull  # 다시 pull 실행
